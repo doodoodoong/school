@@ -45,5 +45,4 @@ def lesson_11():
     return rd_word, meaning
 
 
-print(lesson_10())
 print(lesson_11())
